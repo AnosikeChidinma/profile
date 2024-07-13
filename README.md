@@ -71,10 +71,10 @@ I am a frontend developer with a keen interest in creating seamless user experie
 
 ## 📫 Get in Touch
 
-- *Portfolio:* https://elysium-portfolio-latest.vercel.app/
-- *LinkedIn:* https://www.linkedin.com/in/fadipe-rukayat/
-- *Twitter:* https://x.com/Elysium96/
-- *Email:* fadiperukayat16@gmail.com
+- *Portfolio:* https://my-portfolio-beta-wheat-27.vercel.app/
+- *LinkedIn:* https://www.linkedin.com/in/chidinma-anosike-216b4617a/
+- *Twitter:* https://x.com/E_beth?t=VwWftayEv-w3PK3jEBKAHQ&s=09
+- *Email:* anosikechidinma67@gmail.com
 
 ## 🔭 Goals for 2024
 
